@@ -1,0 +1,11 @@
+name=oled_graphic_assistance
+version=1.0.0
+author=Armin Ghajari
+maintainer=Armin Ghajari youremail@example.com
+sentence=Manage UI pages and icon packs on SH1106 OLED displays.
+paragraph=This library helps you manage multiple UI pages with custom icons on SH1106 OLED displays. It simplifies handling icon layout, page switching, and display drawing using Adafruit GFX and SH1106 libraries.
+category=Display
+url=httpsgithub.comarmin-ghajarioled_graphic_assistance
+architectures=
+includes=oled_graphic_assistance.h
+depends=Adafruit_GFX_Library, Adafruit_SH1106
